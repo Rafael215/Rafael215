@@ -64,7 +64,7 @@ Data exploration project using a dataset of **10,000+ songs**.
 
 - 🎓 CS @ UC San Diego, graduating **2028**  
 - 🇲🇽 First-generation Mexican, U.S. citizen  
-- 🗣 Trilingual: **English, Spanish, French**  
+- 🗣 Trilingual: **English, Spanish**  
 
 I’m currently looking for **Software Engineering Internship** opportunities where I can contribute to real-world products, learn from experienced engineers, and grow as a developer.
 
