@@ -23,12 +23,23 @@ I’m a Computer Science student at UC San Diego (with a minor in Cognitive Scie
 
 ## 🛠 Selected Projects
 
+### 📈 Portfolio Analyzer — Python, pandas, yfinance
+Tool for analyzing personal investment portfolios using **live market data**.
+
+- Built a portfolio analysis system that computes **asset allocation, unrealized profit/loss, benchmark returns, and risk-adjusted performance (Sharpe ratio)**.
+- Integrated **live market data via yfinance**, supporting configurable benchmarks, time horizons, and risk-free rates.
+- Designed both a **CLI interface and an interactive dashboard**, enabling flexible analysis across different investment strategies.
+
+> _Focus: financial data analysis, probabilistic reasoning, and decision-support tooling._
+
+---
+
 ### 🩺 Health Care Made EZ — React Native, Firebase, Expo, Xcode
 Mobile prototype that helps patients **securely store and share medical information**.
 
-- Implemented **Firebase phone auth** so users can log in securely.
-- Built a structured health profile (medications, allergies, conditions, emergency contact).
-- Added **QR-code sharing** so nurses can quickly scan and auto-fill patient data, reducing manual entry in ER/triage settings.  [oai_citation:1‡Rafael_Lopez_Resume.pdf](sediment://file_00000000674071f5b770cb1522d7c68f)  
+- Implemented **Firebase phone authentication** for secure user login.
+- Built a structured health profile including medications, allergies, conditions, and emergency contacts.
+- Added **QR-code sharing** so nurses can quickly scan and auto-fill patient data, reducing manual entry in ER and triage settings.
 
 > _Focus: human-centered design, security, and real-world healthcare workflows._
 
