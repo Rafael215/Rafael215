@@ -58,7 +58,7 @@ Data exploration project using a dataset of **10,000+ songs**.
 
 ## 💼 Experience & Leadership
 
-### VP External – UCSD SHPE (Society of Hispanic Professional Engineers)
+### VP External Intern– UCSD SHPE (Society of Hispanic Professional Engineers)
 - Secured **$4,000+ in sponsorships** from companies like LPL Financial, Turner, Bank of America, Lockheed Martin, and Northrop Grumman.  
 - Organized high-impact **workshops and networking events** with 100+ attendees.  
 - Designed logistics and mentorship coordination for **Ideathon**, improving mentor–participant support.  [oai_citation:3‡Rafael_Lopez_Resume.pdf](sediment://file_00000000674071f5b770cb1522d7c68f)  
