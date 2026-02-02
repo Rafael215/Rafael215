@@ -34,6 +34,17 @@ Tool for analyzing personal investment portfolios using **live market data**.
 
 ---
 
+### ☕ Compliance Autofill Engine (CAfE) — Python, FastAPI, AWS Bedrock, React
+AI-assisted system that converts advisor meeting notes into **structured, audit-ready compliance documentation**.
+
+- Built a full-stack pipeline that ingests client profiles and meeting notes, retrieves relevant compliance guidance, and generates structured draft sections using an LLM.  
+- Implemented a **FastAPI backend** integrated with **AWS Bedrock**, returning validated JSON outputs for downstream rendering and editing.  
+- Designed a **human-in-the-loop workflow** where advisors review, edit, and approve each generated section before finalization.
+
+> _Focus: applied NLP, backend system design, and human-centered AI._
+
+---
+
 ### 🩺 Health Care Made EZ — React Native, Firebase, Expo, Xcode
 Mobile prototype that helps patients **securely store and share medical information**.
 
@@ -42,17 +53,6 @@ Mobile prototype that helps patients **securely store and share medical informat
 - Added **QR-code sharing** so nurses can quickly scan and auto-fill patient data, reducing manual entry in ER and triage settings.
 
 > _Focus: human-centered design, security, and real-world healthcare workflows._
-
----
-
-### 🎧 Spotify Data Reader — Python, Matplotlib
-Data exploration project using a dataset of **10,000+ songs**.
-
-- Parsed and cleaned track data to analyze relationships between **energy, popularity, and chart longevity**.
-- Created visualizations comparing artist energy levels and time spent in Top 100.
-- Practiced turning raw data into **clear, non-technical insights** for broader audiences.  [oai_citation:2‡Rafael_Lopez_Resume.pdf](sediment://file_00000000674071f5b770cb1522d7c68f)  
-
-> _Focus: data analysis, visualization, and storytelling with code._
 
 ---
 
