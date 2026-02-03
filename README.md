@@ -1,6 +1,6 @@
 # Hi, I'm Rafael 👋
 
-I’m a Computer Science student at UC San Diego (with a minor in Cognitive Science) interested in **software engineering**, **AI-driven products**, and **data-intensive applications**. I love building tools that make people’s lives easier—especially in healthcare, education, and accessibility.  [oai_citation:0‡Rafael_Lopez_Resume.pdf](sediment://file_00000000674071f5b770cb1522d7c68f)  
+I’m a Computer Science student at UC San Diego (with a minor in Cognitive Science) interested in **software engineering**, **AI-driven products**, and **data-intensive applications**. I love building tools that make people’s lives easier—especially in healthcare, education, and accessibility.
 
 ---
 
@@ -61,11 +61,11 @@ Mobile prototype that helps patients **securely store and share medical informat
 ### VP External Intern– UCSD SHPE (Society of Hispanic Professional Engineers)
 - Secured **$4,000+ in sponsorships** from companies like LPL Financial, Turner, Bank of America, Lockheed Martin, and Northrop Grumman.  
 - Organized high-impact **workshops and networking events** with 100+ attendees.  
-- Designed logistics and mentorship coordination for **Ideathon**, improving mentor–participant support.  [oai_citation:3‡Rafael_Lopez_Resume.pdf](sediment://file_00000000674071f5b770cb1522d7c68f)  
+- Designed logistics and mentorship coordination for **Ideathon**, improving mentor–participant support.  
 
 ### Bi-National Research Academy – Primary Researcher
 - Collected and analyzed **CO₂ measurements** in classrooms over 2 months to assess air quality.  
-- Identified conditions above **1000 ppm** linked to reduced cognitive performance and presented findings at the **Fleet Science Center** with international collaborators.  [oai_citation:4‡Rafael_Lopez_Resume.pdf](sediment://file_00000000674071f5b770cb1522d7c68f)  
+- Identified conditions above **1000 ppm** linked to reduced cognitive performance and presented findings at the **Fleet Science Center** with international collaborators.
 
 > These roles strengthened my skills in **experimentation, communication, and cross-functional collaboration**—all crucial for building impactful software.
 
@@ -87,4 +87,4 @@ I’m currently looking for **Software Engineering Internship** opportunities wh
 - 🧑‍💻 [GitHub](https://github.com/Rafael215)
 - ✉️ Email: **ral022@ucsd.edu**
 
-If you’re working on something at the intersection of **software, data, and human impact**, I’d love to chat!
+If you’re working on something at the intersection of **software, data, finance, or/and human impact**, I’d love to chat!
