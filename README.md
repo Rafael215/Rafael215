@@ -1,6 +1,6 @@
 # Hi, I'm Rafael 👋
 
-I’m a Computer Science student at UC San Diego (with a minor in Cognitive Science) interested in **software engineering**, **AI-driven products**, and **data-intensive applications**. I love building tools that make people’s lives easier, especially across healthcare, education, finance, and accessibility.
+I’m a Computer Science student at UC San Diego with a minor in Cognitive Science, focused on **software engineering**, **AI-driven products**, and **data-intensive applications**. I enjoy building tools that solve practical problems, especially across healthcare, education, finance, and accessibility.
 
 ---
 
@@ -26,18 +26,18 @@ I’m a Computer Science student at UC San Diego (with a minor in Cognitive Scie
 ### 🐾 Stranger Danger — React, TypeScript, Supabase, Google Gemini, ElevenLabs
 Multimodal AI application for **real-time wildlife identification and outdoor learning**.
 
-- Built a full-stack system that identifies wildlife from **photo, audio, and video inputs** using the **Google Gemini 2.5 Flash API**.
+- Built a full-stack application that identifies wildlife from **photo, audio, and video inputs** using the **Google Gemini 2.5 Flash API**.
 - Developed interactive features including an **AR field scanner**, an **AI survival simulator**, and an **audio training system** powered by **ElevenLabs**.
-- Designed a geolocation-based **community sightings feed** and personal **field guide** backed by **Supabase/Postgres** for persistent species tracking.
+- Designed a geolocation-based **community sightings feed** and personal **field guide** backed by **Supabase/Postgres** for real-time updates and persistent species tracking.
 
 > _Focus: multimodal AI, full-stack product design, and scalable edge-based architecture._
 
 ---
 
 ### ⚽ Tactical Viewer App — Python, SQL, Streamlit, Supabase, pandas, NumPy, Matplotlib
-Interactive analytics tool for exploring **soccer tracking data and tactical decision-making**.
+Interactive analytics platform for exploring **soccer tracking data and tactical decision-making**.
 
-- Engineered an ETL pipeline that downsampled **25 fps World Cup tracking data** to 10 fps, filtered frames around key match events, and loaded millions of rows into a normalized **Supabase/Postgres** schema.
+- Engineered an ETL pipeline that downsampled **25 fps World Cup tracking data** to 10 fps, filtered frames around key match events, and loaded millions of rows into a normalized **Supabase/Postgres** schema across 15+ tables.
 - Implemented **Voronoi pitch control**, **grid-based expected threat (xT)**, and **logistic regression pass probability** models to quantify spatial dominance and passing danger per frame.
 - Built a **Streamlit tactical viewer** with real-time heatmaps, pass overlays, and frame-by-frame pitch control diagrams queryable by match and event.
 
@@ -48,7 +48,7 @@ Interactive analytics tool for exploring **soccer tracking data and tactical dec
 ### ☕ Compliance Autofill Engine (CAfE) — Python, FastAPI, AWS Bedrock, React
 AI-assisted system that converts advisor meeting notes into **structured, audit-ready compliance documentation**.
 
-- Built a full-stack AI-assisted workflow that transforms meeting notes and client profiles into structured compliance drafts, reducing manual write-up time from **20 minutes to 3**.
+- Built a full-stack AI-assisted workflow that transforms meeting notes and client profiles into structured compliance drafts, reducing manual write-up time from **20 minutes to 3 minutes**.
 - Implemented document ingestion, retrieval over compliance guidance, and **AWS Bedrock**-powered structured JSON generation with post-processing for more consistent outputs.  
 - Designed a **human-in-the-loop review flow** so advisors can inspect, edit, and approve each generated section before finalization.
 
@@ -61,7 +61,7 @@ Tool for analyzing personal investment portfolios using **live market data**.
 
 - Built a portfolio analysis system that computes **asset allocation, unrealized profit/loss, benchmark returns, and risk-adjusted performance (Sharpe ratio)**.
 - Integrated **live market data via yfinance**, supporting configurable benchmarks, time horizons, and risk-free rates.
-- Designed both a **CLI interface and an interactive dashboard**, enabling flexible analysis across different investment strategies.
+- Designed both a **CLI interface and an interactive dashboard**, enabling flexible analysis across different investing strategies.
 
 > _Focus: financial data analysis, probabilistic reasoning, and decision-support tooling._
 
@@ -88,7 +88,7 @@ Tool for analyzing personal investment portfolios using **live market data**.
 - 🇲🇽 First-generation Mexican, U.S. citizen  
 - 🗣 Bilingual: **English, Spanish**  
 
-I’m currently looking for **Software Engineering Internship** opportunities where I can contribute to real-world products, learn from experienced engineers, and grow as a developer.
+I’m currently looking for **Software Engineering Internship** opportunities where I can contribute to real products, learn from experienced engineers, and keep growing as a developer.
 
 ---
 
@@ -98,4 +98,4 @@ I’m currently looking for **Software Engineering Internship** opportunities wh
 - 🧑‍💻 [GitHub](https://github.com/Rafael215)
 - ✉️ Email: **ral022@ucsd.edu**
 
-If you’re working on something at the intersection of **software, data, finance, or/and human impact**, I’d love to chat!
+If you’re working on something at the intersection of **software, data, finance, and human impact**, I’d love to connect.
